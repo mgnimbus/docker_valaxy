@@ -7,6 +7,6 @@ terraform {
   }
 }
 
-provider "docker" {
-  # Configuration options
-}
+# provider "docker" {
+#   # Configuration options
+# }
